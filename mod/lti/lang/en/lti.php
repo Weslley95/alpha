@@ -604,5 +604,6 @@ $string['contentitem'] = 'Content-Item Message';
 $string['contentitem_help'] = 'If ticked, the option \'Select content\' will be available when adding an external tool.';
 
 // Module for SAGAH
-$string['subject'] = 'Subject SAGAH';
-$string['subject_help'] = 'If you use SAGAH subjects, use this field to specify the subject that contains the learning unit to be used.';
+$string['discipline'] = 'Discipline SAGAH';
+$string['discipline_help'] = "If you use the SAGAH tool, use this field to specify the discipline that contains the learning unit (LU) to be used.
+	<p>If you do not use the external tool SAGAH, disregard this field</p>";
