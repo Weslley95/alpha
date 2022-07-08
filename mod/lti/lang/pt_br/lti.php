@@ -49,6 +49,6 @@
 defined('MOODLE_INTERNAL') || die;
 
 // Module for SAGAH
-$string['discipline'] = 'Disciplina SAGAH';
-$string['discipline_help'] = "Caso utilize a ferramenta SAGAH, use este campo para especificar a disciplina que contém a unidade de aprendizagem (UA) a ser utilizada.
+$string['subject'] = 'Disciplina SAGAH';
+$string['subject_help'] = "Caso utilize a ferramenta SAGAH, use este campo para especificar a disciplina que contém a unidade de aprendizagem (UA) a ser utilizada.
 	<p>Caso não utilize a ferramenta externa SAGAH, desconsidere este campo</p>";
